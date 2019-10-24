@@ -60,11 +60,11 @@ header {
     margin-bottom: 20px;
     text-align: center;
 }
-.profilepicture {
+#profilepicture {
     background-color: white;
     border: 1px solid white;
     border-radius: 50% 50% 50% 50%;
-    padding: 4px; 
+    padding: 4px;
 }
 footer {
     margin: auto;
