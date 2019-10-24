@@ -1,0 +1,15 @@
+{% include header.html %}
+    <div class= "post">
+        {% if page.image %} <img src= "/content/{{ page.image }}.png"> {% endif %}
+        <div class= "post-content">
+          {{ page.content }}
+          <div class = "post-meta">
+            <div class = "post-nowplaying">
+              {% if page.description %} <p>{{ page.description }}</p> {% endif %}
+            </div>
+            <div class = "post-permalink">
+              <a href="{{ site.url }}">KOTI</a>
+            </div>
+          </div>
+        </div>
+    </div>
