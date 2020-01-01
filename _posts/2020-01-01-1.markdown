@@ -5,4 +5,4 @@ date:   2019-01-01 00:00:00 +0200
 categories: default
 ---
 <img src="{{ site.url }}/assets/content/tCJi1lma.png"/>
-2020 🎆 New year's resolution: disturbingly low 👾
+2020 🎆 New Year's Resolution: Disturbingly Low 👾
