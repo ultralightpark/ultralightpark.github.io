@@ -5,6 +5,7 @@ body {
 }
 a   {
     text-decoration: none;
+    color: #ebecec;
 }
 #wrapper {
     margin: auto;
