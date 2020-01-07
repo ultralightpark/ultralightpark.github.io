@@ -15,7 +15,7 @@ navigation_weight: 1
               {% if post.description %} <p>{{ post.description }}</p> {% endif %}
             </div>
             <div class = "post-permalink">
-              #{{ post.title }} | <a href="{{ post.url }}">𝖕𝖊𝖗𝖒𝖆𝖑𝖎𝖓𝖐</a>
+              <a href="{{ post.url }}">#{{ post.title }}</a>
             </div>
           </div>
         </div>
